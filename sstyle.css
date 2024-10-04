@@ -116,6 +116,20 @@
     font-size: 1.5rem;
     cursor: pointer;
   }
+  h1 {
+    font-size: 3rem; /* Adjust size as needed */
+    color: #dffc00; /* Darker color for visibility */
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 0;
+}
+p{
+  font-size: 3rem; /* Adjust size as needed */
+  color: #f80404; /* Darker color for visibility */
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  margin: 0;
+}
   
   /* Hero Section */
   .hero {
